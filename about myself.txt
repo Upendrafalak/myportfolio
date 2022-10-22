@@ -1,0 +1,5 @@
+Hey, I'm Upendra 👋 😃 !
+👉 I'm in sophomore year pursuing Bachelors of Engineering in Information Technology.
+🔭 I'm skilled and proficient in Web Development and technologies like React JS,
+Javascript , Java , Python , C, C++.
+🤔 Learning ML and AI, Backend Development.
