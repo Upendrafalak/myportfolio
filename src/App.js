@@ -6,8 +6,6 @@ import Navbar  from './components/Navbar/Navbar';
 import Card  from './components/Card/Card';
 import Tech from './components/Tech/Tech';
 import Contact  from './components/Contact/Contact';
-import Hand from './media/Hand.gif';
-import Dp from './media/me2.jpg';
 import Tilt from 'react-tilt';
 import Education  from './components/Education/Education';
 import About from './components/About/About';

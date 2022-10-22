@@ -1,10 +1,6 @@
-import Tom from '../../media/Tom.png';
-import Robot from '../../media/robots.png';
-import ML from '../../media/ML.png';
 import './Card.css';
 import GH from '../../media/github.png';
 import Tilt from 'react-tilt'
-import Sign from '../../media/sign language.jpg'
 import msg from '../../media/messaging.jpg'
 import railway from '../../media/railway.png'
 import crypto from '../../media/crypto.png'

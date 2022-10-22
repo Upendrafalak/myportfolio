@@ -1,5 +1,4 @@
 import './About.css';
-import Hand from '../../media/Hand.gif';
 import Dp from '../../media/profile.png';
 const About = ()=>{
     return(
