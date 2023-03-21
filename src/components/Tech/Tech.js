@@ -6,15 +6,6 @@ const Tech = () =>{
             <h1><b>Technologies I'm Famililar with</b></h1>
             <div className="box">
             <div className="icon">
-            <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="java"/>
-            <h3>JAVA</h3>
-            </div>
-            <div className="icon">
-            <img src='https://img.icons8.com/color/48/000000/python--v2.png'alt="python"/>
-            <h3>PYTHON</h3>
-            </div>
-
-            <div className="icon">
             <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
             <h3>C++</h3>
             </div>
@@ -22,6 +13,14 @@ const Tech = () =>{
             <div className="icon">
             <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="js"/>
             <h3>JS</h3>
+            </div>
+            <div className="icon">
+            <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="java"/>
+            <h3>JAVA</h3>
+            </div>
+            <div className="icon">
+            <img src='https://img.icons8.com/color/48/000000/python--v2.png'alt="python"/>
+            <h3>PYTHON</h3>
             </div>
 
             <div className="icon">
@@ -32,6 +31,11 @@ const Tech = () =>{
             <div className="icon">
             <img src="https://img.icons8.com/nolan/48/react-native.png" alt="react-js"/>
             <h3>REACT JS</h3>
+            </div>
+
+            <div className="icon">
+            <img src="https://img.icons8.com/color/1x/nextjs.png" alt="react-js"/>
+            <h3>NEXT JS</h3>
             </div>
 
             <div className="icon">
@@ -47,8 +51,12 @@ const Tech = () =>{
 
             <div className="icon">
             <img src="https://img.icons8.com/nolan/48/mysql.png" alt="mysql"/>
-          
             <h3>MYSQL</h3>
+            </div>
+
+            <div className="icon">
+            <img src="https://img.icons8.com/color/1x/firebase.png" alt="mysql"/>
+            <h3>FIREBASE</h3>
             </div>
 
             <div className="icon">

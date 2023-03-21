@@ -13,8 +13,31 @@ const Card = () =>{
             <h1 className="title" style={{marginTop:"50px" ,marginLeft:"100px" }}><b>Projects</b></h1>
     <div className="project-cards" id = "project">
             
-            <div className="card" >
-                <img src={msg} alt="Avatar" style={{width:300 , height:400}} />
+    <div className="card" >
+                <img src="https://res.cloudinary.com/drr7rbizq/image/upload/v1671025005/images-removebg-preview_dr5ypk.png" alt="Avatar" style={{width:300 , height:220}} />
+                <div className="container">
+                <h4><b>YouTube Clone</b></h4>
+                <p>Video Streaming Application <br />
+               It's a clone of YouTube made using ReactJs and Rapid API.<br />
+                </p>
+                    <div className="center">
+                        <Tilt className="Tilt" options={{ max : 25 }} style={{ height: 250, width: 250 }} >
+                    <div className="Tilt-inner">
+                    <a href="https://github.com/Upendrafalak/YouTube_Clone"  target="_blank" rel="noreferrer noopener">
+                            <img src={GH} alt="github" />
+
+                        </a> 
+                        </div>
+                    </Tilt>
+
+                        </div>
+                    
+                </div>
+                </div>
+
+
+                <div className="card" >
+                <img src={msg} alt="Avatar" style={{width:300 , height:220}} />
                 <div className="container">
                 <h4><b>Meet Up</b></h4>
                 <p>Chat Application <br />
@@ -34,31 +57,6 @@ const Card = () =>{
                     
                 </div>
                 </div>
-
-
-            <div className="card" >
-           
-            <img src={railway} alt="Avatar" style={{width:300 , height:400}} />
-            <div className="container">
-            <h4><b>Railway Reservation System</b></h4>
-            <p>Ticket Booking website made using HTML, CSS, PHP, MySQL. </p>
-                <div className="center">
-                <Tilt className="Tilt" options={{ max : 25 }} style={{ height: 250, width: 250 }} >
-               <div className="Tilt-inner">
-               <a href="https://github.com/Upendrafalak/vrctc"  target="_blank" rel="noreferrer noopener">
-                    <img src={GH} alt="github" />
-
-                </a> 
-                </div>
-               </Tilt>
-
-                </div>
- 
-
-            </div>
-                
-            
-            </div>
     
            
            <div className="card" >
